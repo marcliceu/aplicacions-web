@@ -1,4 +1,4 @@
-h1,h2{
+h1{
 
 color: aquamarine;
 font-style: italic;
@@ -12,3 +12,8 @@ width: 200px;
 
 }
 
+h2{
+
+color: aquamarine;
+
+}
