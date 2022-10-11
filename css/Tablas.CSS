@@ -1,19 +1,21 @@
-th{
+body{
 
-    border: 1px black solid;
-    
+
+background-color: beige;
+
+
 }
 
 .serveis {
 
-    
+    border: 3px gold solid ;
     background-color: blueviolet;
     color: magenta;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .seguretat{
-
+    border: 3px green solid ;
     background-color: cornflowerblue;
     color: greenyellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -21,17 +23,16 @@ th{
 }
 
 .sistemes {
-
+    
     background-color: crimson;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-
+    border: 3px black solid ;
 
 }
 
 .aplicacions{
-
+    border: 3px blueviolet solid ;
 background-color: darkgoldenrod;
 color: blue;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -41,15 +42,39 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 .web{
 
-
+    border: 3px brown solid ;
     background-color: chartreuse;
     color: darkorange;
     font-family: monospace;
 }
 
 .eie{
-
+    border: 3px pink solid ;
     background-color: greenyellow;
     color: red;
     font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.patio {
+
+
+    border: 3px royalblue solid ;
+
+
+}
+
+.hora {
+
+
+border: 3px purple solid;
+
+
+}
+
+.dia {
+
+
+border: 3px turquoise solid;
+
 }
