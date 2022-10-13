@@ -1,6 +1,17 @@
-.selecciona {
+div {
+    text-align:left;
+    color: wheat;
+    border: 2px black solid;
+    background-color: beige;
+    letter-spacing:1px ;
+    display: grid;
+    width: 150px;
+
+}
+
+h1 {
 
 
-    border: 1px black solid;
-    
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
