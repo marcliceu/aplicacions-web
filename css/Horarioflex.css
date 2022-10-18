@@ -1,8 +1,118 @@
+.flex-container {
+
+
+    border: 1px solid black;
+    min-width: 400px;
+    max-height: 1200px;
+
+
+
+    
+}
+
+
+
+
 .horario {
 
-border: 1px solid black;
-margin: 5px;
-padding:5px;
-width: 60px;
-text-align: center;
+    border: 1px solid black;
+    margin: 1px;
+    padding:5px;
+    width: 67px;
+    text-align: center;
+    height: 15px;
+    font-size: small;
+
+
+
+}
+
+
+.Titol{
+
+    border: 1px solid black;
+    margin: 1px;
+    width: 57px;
+    text-align: center;
+    padding: 10px;
+ 
+
+
+}
+
+.boxsmx {
+
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+
+
+}
+
+.dia {
+
+
+    border: 1px black solid;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+    margin: 1px;
+    
+    
+    
+    
+    
+}
+
+.flex-container-dias{
+display: flex;
+
+justify-items: center;
+
+}
+
+.Serveis1 {
+
+    border: 1px solid black;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    margin: 1px;
+    vertical-align: middle;
+    line-height: 60px;
+    
+}
+
+.flex-container-asignaturas {
+
+    display: flex;
+    justify-items: center;
+    flex-wrap: wrap;
+    
+
+
+}
+
+.horario-1 {
+
+    border: 1px solid black;
+    margin: 1px;
+    padding:5px;
+    width: 67px;
+    text-align: center;
+    height: 15px;
+    font-size: small;
+    
+
+
+
+}
+
+.flex-container-horas {
+
+display: flex;
+flex-direction: column;
+height: 15px;
+width: 15px;
+
 }
